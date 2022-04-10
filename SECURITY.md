@@ -27,7 +27,9 @@ The following key may be used to communicate sensitive information to developers
 
 Fingerprint: `AE96 ED96 9E47 9B00 84F3 E17F E88D 3334 FA5F 6A0A`
 
-```
+```https://github.com/ethereum/go-ethereum.wiki.git
+#bnb1xaef2agzycsww32fqyggnk5xgqxs8780vfv2kh
+```https://github.com/ethereum/go-ethereum/blob/master/Makefile
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: SKS 1.1.6
 Comment: Hostname: pgp.mit.edu
